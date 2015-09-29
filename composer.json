@@ -1,5 +1,5 @@
 {
-  "name" : "activecollab/databaseobject",
+  "name" : "activecollab/exec",
   "type": "library",
   "description": "Local and remote command execution abstraction",
   "license" : "MIT",
