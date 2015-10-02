@@ -7,7 +7,7 @@ use ActiveCollab\Exec\Adapter\AdapterInterface;
 /**
  * @package ActiveCollab\Exec
  */
-final class Exec
+final class Exec implements ExecInterface
 {
     /**
      * @var AdapterInterface
